@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joe279
-- 👀 I’m interested in computer and model helicopter
-- 🌱 I’m currently learning flying helicopter like a pro
-- 💞️ I’m looking to collaborate on anybody with same interests
+- 👀 I’m studying digital transformation 
+- 🌱 I’m student on FH des BFI Vienna
+- 💞️ I’m currently working on Modul 5
 - 📫 How to reach me email me
 <!---
 Joe279/Joe279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
